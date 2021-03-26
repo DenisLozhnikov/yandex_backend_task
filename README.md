@@ -32,6 +32,7 @@
 
 <h3>Инструкции по деплою</h3>
 Для деплоя я использовал связку gunicorn и nginx как обратный прокси сервер, хоть это и необязательно
+
 1. Установка PostgreSQL
 
         sudo apt install postgresql postgresql-contrib
